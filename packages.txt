@@ -12,6 +12,7 @@ bpytop
 brave-bin
 breeze-grub
 bridge-utils
+cemu
 checkra1n-cli
 chromium
 citra-nightly
@@ -175,6 +176,7 @@ virt-manager
 virtualbox
 vscodium-bin
 vulkan-intel
+vulkan-tools
 weston
 wine
 wine-gecko
