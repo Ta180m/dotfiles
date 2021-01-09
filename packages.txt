@@ -164,6 +164,7 @@ supertuxkart
 tk
 tldr
 tmux
+tungsten
 twine
 ubuntu-keyring
 unrar
