@@ -16,15 +16,13 @@ cemu
 checkra1n-cli
 chromium
 citra-nightly
-conky
-cool-retro-term
 cryfs
 cups
 cython
 debian-archive-keyring
 dmenu
 dnsmasq
-docker
+docker-compose
 dolphin-emu
 dolphin-plugins
 ebtables
@@ -50,6 +48,8 @@ github-cli
 github-desktop-bin
 groff
 grub
+gvim
+hardinfo
 hplip
 htop
 hyperfine
@@ -172,7 +172,6 @@ usbutils
 v4l2loopback-dkms
 vagrant
 vi
-vim
 virt-manager
 virtualbox
 vscodium-bin
