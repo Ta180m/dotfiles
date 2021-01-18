@@ -33,7 +33,6 @@ emacs
 fakeroot
 feh
 firefox
-firetools
 fish
 flatpak
 flex
@@ -179,8 +178,6 @@ vulkan-intel
 vulkan-tools
 weston
 wine
-wine-gecko
-wine-mono
 winetricks
 wireguard-tools
 wkhtmltopdf
