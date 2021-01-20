@@ -10,7 +10,6 @@ blender
 bpytop
 brave-bin
 breeze-grub
-bridge-utils
 cemu
 checkra1n-cli
 chromium
@@ -18,13 +17,11 @@ citra-nightly
 cryfs
 cups
 dmenu
-dnsmasq
 docker-compose
 dolphin-emu
 dolphin-plugins
 ebtables
 eclipse-java-bin
-edk2-ovmf
 efibootmgr
 emacs
 fakeroot
@@ -54,7 +51,6 @@ inkscape
 intel-media-driver
 intel-ucode
 jdk-openjdk
-jupyterlab
 kcm-wacomtablet
 kde-graphics-meta
 kde-multimedia-meta
@@ -102,14 +98,12 @@ libretro-shaders-slang
 libretro-snes9x
 libretro-yabause
 libva-utils
-libvirt
 links
 linux
 linux-firmware
 linux-headers
 linux-tools-meta
 lutris
-lxd
 lynx
 m4
 make
@@ -160,7 +154,6 @@ twine
 unrar
 usbutils
 v4l2loopback-dkms
-vagrant
 vi
 virt-manager
 vscodium-bin
@@ -175,7 +168,6 @@ x11docker
 xdotool
 xf86-video-nouveau
 xorg-xhost
-xorg-xwayland
 xournalpp
 yay-bin
 youtube-dl
