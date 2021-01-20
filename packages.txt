@@ -7,7 +7,6 @@ base
 bash-completion
 bison
 blender
-bluez-utils
 bpytop
 brave-bin
 breeze-grub
@@ -18,8 +17,6 @@ chromium
 citra-nightly
 cryfs
 cups
-cython
-debian-archive-keyring
 dmenu
 dnsmasq
 docker-compose
@@ -31,7 +28,6 @@ edk2-ovmf
 efibootmgr
 emacs
 fakeroot
-feh
 firefox
 fish
 flatpak
@@ -48,7 +44,6 @@ github-desktop-bin
 groff
 grub
 gvim
-hardinfo
 hplip
 htop
 hyperfine
@@ -112,8 +107,6 @@ links
 linux
 linux-firmware
 linux-headers
-linux-lts
-linux-lts-headers
 linux-tools-meta
 lutris
 lxd
@@ -142,7 +135,6 @@ plasma-wayland-session
 playonlinux
 powerline
 powerline-fonts
-pulseaudio-bluetooth
 pypy3
 python-pip
 python-poetry
@@ -165,7 +157,6 @@ tldr
 tmux
 tungsten
 twine
-ubuntu-keyring
 unrar
 usbutils
 v4l2loopback-dkms
