@@ -112,13 +112,14 @@ links
 linux
 linux-firmware
 linux-headers
+linux-lts
+linux-lts-headers
 linux-tools-meta
 lutris
 lxd
 lynx
 m4
 make
-minetest
 mpv
 nano
 neofetch
@@ -155,7 +156,6 @@ retroarch-assets-xmb
 ruby
 ruby-bundler
 rubygems
-sagemath-jupyter
 samba
 screen
 supertux
@@ -172,7 +172,6 @@ v4l2loopback-dkms
 vagrant
 vi
 virt-manager
-virtualbox
 vscodium-bin
 vulkan-intel
 vulkan-tools
