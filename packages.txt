@@ -14,6 +14,7 @@ cemu
 checkra1n-cli
 chromium
 citra-nightly
+code
 cryfs
 cups
 dmenu
@@ -32,8 +33,6 @@ flex
 freerdp
 fusee-launcher-git
 fzf
-geany
-geany-plugins
 gimp
 git
 github-cli
@@ -151,12 +150,10 @@ tldr
 tmux
 tungsten
 twine
-unrar
 usbutils
 v4l2loopback-dkms
 vi
 virt-manager
-vscodium-bin
 vulkan-intel
 vulkan-tools
 weston
