@@ -18,6 +18,7 @@ code
 cryfs
 cups
 dmenu
+dnsmasq
 docker-compose
 dolphin-emu
 dolphin-plugins
@@ -111,6 +112,7 @@ nano
 neofetch
 net-tools
 networkmanager
+nmap
 noto-fonts-emoji
 ns-usbloader
 nx-udev
