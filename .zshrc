@@ -12,5 +12,6 @@ powerline-daemon -q
 source /usr/lib/python3.9/site-packages/powerline/bindings/zsh/powerline.zsh
 
 # History
-export HISTFILE=~/.zsh_history
+SAVEHIST=1000000
+HISTFILE=~/.zsh_history
 setopt INC_APPEND_HISTORY
