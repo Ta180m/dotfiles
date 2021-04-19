@@ -15,3 +15,8 @@ source /usr/lib/python3.9/site-packages/powerline/bindings/zsh/powerline.zsh
 SAVEHIST=1000000
 HISTFILE=~/.zsh_history
 setopt INC_APPEND_HISTORY
+
+# fzf
+source /usr/share/fzf/key-bindings.zsh
+source /usr/share/fzf/completion.zsh
+
