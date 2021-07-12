@@ -1,0 +1,12 @@
+[core]
+	editor = nano
+[user]
+	name = Anthony Wang
+	email = ta180m@pm.me
+	signingkey = BC96B00AEC5F2D76
+[commit]
+	gpgsign = true
+[credential]
+	helper = store
+[init]
+	defaultBranch = main
